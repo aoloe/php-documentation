@@ -13,7 +13,8 @@ namespace Aoloe;
  *   - ignore the non public methods
  *   - do not to render the todos
  * - create links to the github code for each method
- * - create the whole class documentation as a markdown string (through a hook?)
+ * - create the whole class documentation as a markdown string (through a hook?
+ *   add spans with direct formatting for a nice inclusion in github's README?)
  * - maybe parse the file's (methods?) source for // TODO:...
  *   (http://stackoverflow.com/questions/7905841/get-source-code-of-user-defined-class-and-functions)
  * - check https://github.com/peej/phpdoctor
