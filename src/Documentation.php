@@ -2,7 +2,7 @@
 namespace Aoloe;
 
 /**
- * This is a very simple implemantation of a documentation tool for PHP classes.
+ * This is a very simple implementation of a documentation tool for PHP classes.
  *
  * TODO:
  * - add links and anchors in the rendered version
