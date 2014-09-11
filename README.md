@@ -32,11 +32,16 @@ $documentation->render();
 ~~~
 
 That's simple:
+
 - write the HTML "decoration",
 - load the class to be documented (and the `Documentation` framework"),
 - pass its name to the `Documentation` constructor,
 - parse the documentation,
 - render it.
+
+If you want to generate a static HTML documentation page simply run:
+
+    php your_documentation_file.php > your_documentation_file.html
 
 This projects documentation is a _real world_ example, that adds the CSS styling.
 

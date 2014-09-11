@@ -45,8 +45,6 @@
 <body>
 <div class="documentation">
 <?php
-include('../vendor/autoload.php');
-
 include('../src/Documentation.php');
 
 $documentation = new Aoloe\Documentation('Aoloe\Documentation');
