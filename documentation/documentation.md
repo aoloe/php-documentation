@@ -44,7 +44,7 @@
 </head>
 <body>
 <div style='font-family: "Fira Sans", "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: 400;'>
-#<span style="color: #f80;">Documentation</span>
+# <span style="color: #f80;">Documentation</span>
 <p>This is a very simple implementation of a documentation tool for PHP classes.
 </p>
 <p>Namespace: Aoloe</p>
