@@ -19,6 +19,7 @@ namespace Aoloe;
  *   (http://stackoverflow.com/questions/7905841/get-source-code-of-user-defined-class-and-functions)
  * - check https://github.com/peej/phpdoctor
  * - find a way to initialize and document "structure"
+ * - create a json schema for the structure
  */
 class Documentation {
     private $reflector = null;
